@@ -1,7 +1,7 @@
 # 💫 About Me:
 ‍💻 I am a results-driven Software Developer with 1+ years of professional experience in Agile environments, dedicated to delivering robust software solutions with seamless user experiences.
 
-Throughout my career, I have excelled in working across the entire software development lifecycle (SDLC), leveraging my expertise in Java, Python, C#, C++, and REST APIs. With a solid foundation in object-oriented programming (OOP), design patterns, best practices, algorithms, and data structures, I bring a comprehensive skill set to every project.
+Throughout my career, I have excelled in working across the entire software development lifecycle (SDLC), leveraging my expertise in Java, Python, C#, JavaScript, and REST APIs. With a solid foundation in object-oriented programming (OOP), design patterns, best practices, algorithms, and data structures, I bring a comprehensive skill set to every project.
 
 In addition to my technical proficiency, I possess excellent communication and teamwork skills that have proven instrumental in driving successful software development initiatives. I actively engage with stakeholders, diligently gather requirements, and foster clear and concise communication within cross-functional teams. By championing effective collaboration and open communication, I enable teams to deliver high-quality software solutions on time.
 
