@@ -7,7 +7,7 @@ In addition to my technical proficiency, I possess excellent communication and t
 
 Motivated by a passion for continuous growth and innovation, I actively seek new opportunities and collaborations that challenge me professionally and contribute to my personal development. If you are looking for a dedicated and adaptable Software Developer who thrives in dynamic environments and values effective teamwork, I would love to connect. Please feel free to reach out to me for exciting job opportunities and potential collaborations.
 
-<br>🔭  I’m currently working as a Software Engineer at Huawei Technologies Canada Co., Ltd.. I also have previous working experience in developing full-stack software solutions at Island Health..<br>🌱 I’m continuously learning new frameworks, technologies, and best practices in software development.<br>👯 I’m looking for software developer and software engineer opportunities.<br>💬 Ask me everything software development-related, and I'll be happy to help you out. I love talking about this.<br>😄 Pronouns: She/Her
+<br>🔭  I’m currently working as a Software Engineer at Huawei Technologies Canada Co., Ltd. I also have previous working experience in developing full-stack software solutions at Island Health..<br>🌱 I’m continuously learning new frameworks, technologies, and best practices in software development.<br>👯 I’m looking for software developer and software engineer opportunities.<br>💬 Ask me everything software development-related, and I'll be happy to help you out. I love talking about this.<br>😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
